@@ -130,6 +130,10 @@ nav a {
     margin: 130px 0;
 }
 
+.section-des {
+    margin-top: 30px;
+}
+
 .about-info-container {
     display: flex;
     justify-content: space-around;
@@ -139,4 +143,13 @@ nav a {
 .about-info {
     margin-top: 30px;
     text-align: center;
+}
+
+#what-i-do-des {
+    padding: 30px 150px;
+}
+
+.skills-container {
+    display: flex;
+    justify-content: space-around;
 }
